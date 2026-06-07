@@ -6,7 +6,6 @@
 ## Contents
 
 - [Official Resources](#official-resources)
-- [Models](#models)
 - [Integrations and Extensions](#integrations-and-extensions)
 - [Papers](#papers)
 
