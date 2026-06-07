@@ -35,7 +35,7 @@
 | Resource | Description |
 |----------|-------------|
 | [Stable Audio 3 Docs](https://docs.comfy.org/tutorials/audio/stable-audio/stable-audio-3) | Stable Audio 3 docs for Comfy UI |
-| [Stable Audio 1 Docs](https://docs.comfy.org/tutorials/audio/stable-audio/stable-audio-1) | Stable Audio 1 docs for Comfy UI |
+| [Stable Audio Open Docs](https://docs.comfy.org/tutorials/audio/stable-audio/stable-audio-1) | Stable Audio Open docs for Comfy UI |
 
 ### Fal
 | Resource | Description |
@@ -66,10 +66,10 @@
 ## Papers
 | Year | Paper |
 |----------|-------------|
-|2026|[Stable Audio 3](https://arxiv.org/pdf/2605.17991) |
-|2026|[SAME: A Semantically-Aligned Music Autoencoder](https://arxiv.org/pdf/2605.18613) |
-|2026|[Low-Resource Guidance for Controllable Latent Audio Diffusion](https://arxiv.org/pdf/2603.04366) |
-|2025|[Fast Text-to-Audio Generation with Adversarial Post-Training (Stable Audio Open Small)](https://arxiv.org/pdf/2505.08175) |
-|2025|[Stable Audio Open](https://arxiv.org/pdf/2407.14358) |
-|2024|[Long-Form Music Generation With Latent Diffusion (Stable Audio 2)](https://arxiv.org/pdf/2404.10301) |
-|2024|[Fast Timing-Conditioned Latent Audio Diffusion (Stable Audio)](https://openreview.net/pdf?id=jOlO8t1xdx) |
+|2026|[Stable Audio 3](https://arxiv.org/abs/2605.17991) |
+|2026|[SAME: A Semantically-Aligned Music Autoencoder](https://arxiv.org/abs/2605.18613) |
+|2026|[Low-Resource Guidance for Controllable Latent Audio Diffusion](https://arxiv.org/abs/2603.04366) |
+|2025|[Fast Text-to-Audio Generation with Adversarial Post-Training (Stable Audio Open Small)](https://arxiv.org/abs/2505.08175) |
+|2025|[Stable Audio Open](https://arxiv.org/abs/2407.14358) |
+|2024|[Long-Form Music Generation With Latent Diffusion (Stable Audio 2)](https://arxiv.org/abs/2404.10301) |
+|2024|[Fast Timing-Conditioned Latent Audio Diffusion (Stable Audio)](https://openreview.net/abs?id=jOlO8t1xdx) |
