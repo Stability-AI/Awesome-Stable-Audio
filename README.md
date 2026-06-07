@@ -56,10 +56,11 @@
 | Resource | Description |
 |----------|-------------|
 | [Macbook Pro fast inference demo](https://x.com/dadabots/status/2057237391983640811) | Fast inference on Apple Silicon |
-| [Mood steering](https://guglielmocamporese.github.io/blog/audio-mood-steering/) | Audio mood steering technique |
+| [Promptless Mood steering](https://guglielmocamporese.github.io/blog/audio-mood-steering/) | Steering Stable Audio 3 by attaching inference-time probes to the diffusion transformer |
 | [DAW Plugin](https://github.com/betweentwomidnights/gary4juce) | JUCE-based DAW plugin |
 | [Ableton Extension](https://github.com/betweentwomidnights/sa3-ableton-extension) | Ableton Live extension |
 | [Speech-operated Terminal Looper](https://github.com/sonicfieldlabs/oram) | Voice-controlled terminal looper |
+| [Sample Varations Plugin](https://github.com/maxgraf96/stable-audio-3) | Sample variation generation JUCE plugin |
 
 
 ## Papers
