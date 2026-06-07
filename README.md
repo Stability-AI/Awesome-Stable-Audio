@@ -72,4 +72,4 @@
 |2025|[Fast Text-to-Audio Generation with Adversarial Post-Training (Stable Audio Open Small)](https://arxiv.org/abs/2505.08175) |
 |2025|[Stable Audio Open](https://arxiv.org/abs/2407.14358) |
 |2024|[Long-Form Music Generation With Latent Diffusion (Stable Audio 2)](https://arxiv.org/abs/2404.10301) |
-|2024|[Fast Timing-Conditioned Latent Audio Diffusion (Stable Audio)](https://openreview.net/abs?id=jOlO8t1xdx) |
+|2024|[Fast Timing-Conditioned Latent Audio Diffusion (Stable Audio)](https://arxiv.org/abs/2402.04825) |
