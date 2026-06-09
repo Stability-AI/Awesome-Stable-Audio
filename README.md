@@ -60,6 +60,7 @@
 | [Ableton Extension](https://github.com/betweentwomidnights/sa3-ableton-extension) | Ableton Live extension |
 | [Speech-operated Terminal Looper](https://github.com/sonicfieldlabs/oram) | Voice-controlled terminal looper |
 | [Sample Varations Plugin](https://github.com/maxgraf96/stable-audio-3) | Sample variation generation JUCE plugin |
+| [theDAW](https://github.com/gantasmo/StableDAW) | Browser-based DAW for Stable Audio 3 |
 
 
 ## Papers
