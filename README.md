@@ -55,6 +55,7 @@
 | [Speech-operated Terminal Looper](https://github.com/sonicfieldlabs/oram) | Voice-controlled terminal looper by [@sonic_field](https://x.com/sonic_field)|
 | [Sample Varations Plugin](https://github.com/maxgraf96/stable-audio-3) | Sample variation generation JUCE plugin by [@maxgraf__](https://x.com/maxgraf__) |
 | [theDAW](https://github.com/gantasmo/StableDAW) | Browser-based DAW for Stable Audio 3 by [@gantasmo](https://x.com/gantasmo) |
+| [LoopMaster](https://github.com/LevonFrench/LoopMasterSA) | A generative loop explorer by [@hotghettomusic](https://x.com/hotghettomusic) |
 
 
 
