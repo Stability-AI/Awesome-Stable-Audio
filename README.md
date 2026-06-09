@@ -31,36 +31,31 @@
 
 ## Integrations and Extensions
 ### Comfy UI
-| Resource | Description |
-|----------|-------------|
-| [Stable Audio 3 Docs](https://docs.comfy.org/tutorials/audio/stable-audio/stable-audio-3) | Stable Audio 3 docs for Comfy UI |
-| [Stable Audio Open Docs](https://docs.comfy.org/tutorials/audio/stable-audio/stable-audio-1) | Stable Audio Open docs for Comfy UI |
+- [Stable Audio 3 Docs](https://docs.comfy.org/tutorials/audio/stable-audio/stable-audio-3)
+- [Stable Audio Open Docs](https://docs.comfy.org/tutorials/audio/stable-audio/stable-audio-1)
 
 ### Fal
-| Resource | Description |
-|----------|-------------|
-| [Stable Audio 3 Medium](https://fal.ai/models/fal-ai/stable-audio-3/medium/text-to-audio) | Text-to-audio |
-| [Stable Audio 3 Small SFX](https://fal.ai/models/fal-ai/stable-audio-3/small/sfx/text-to-audio) | SFX text-to-audio |
-| [Stable Audio 3 Small Music](https://fal.ai/models/fal-ai/stable-audio-3/small/music/text-to-audio) | Music text-to-audio |
-| [Stable Audio 2.5](https://fal.ai/models/fal-ai/stable-audio-25/text-to-audio) | Text-to-audio |
-| [Stable Audio 1](https://fal.ai/models/fal-ai/stable-audio) | Text-to-audio |
+- [Stable Audio 3 Medium](https://fal.ai/models/fal-ai/stable-audio-3/medium/text-to-audio)
+- [Stable Audio 3 Small SFX](https://fal.ai/models/fal-ai/stable-audio-3/small/sfx/text-to-audio)
+- [Stable Audio 3 Small Music](https://fal.ai/models/fal-ai/stable-audio-3/small/music/text-to-audio)
+- [Stable Audio 2.5](https://fal.ai/models/fal-ai/stable-audio-25/text-to-audio)
+- [Stable Audio 1](https://fal.ai/models/fal-ai/stable-audio)
 
 ### LoRA fine-tuning
-| Resource | Description |
-|----------|-------------|
-| [Underfit](https://github.com/dada-bots/underfit) | Dadabots LoRA fine-tuning controller and dashboard |
+- [Underfit](https://github.com/dada-bots/underfit) by [@dadabots](https://x.com/dadabots/)
 
 ### More from the community
 #### Stable Audio 3
 | Resource | Description |
 |----------|-------------|
-| [Macbook Pro fast inference demo](https://x.com/dadabots/status/2057237391983640811) | Fast inference on Apple Silicon |
-| [Promptless Mood steering](https://guglielmocamporese.github.io/blog/audio-mood-steering/) | Steering Stable Audio 3 by attaching inference-time probes to the diffusion transformer |
-| [DAW Plugin](https://github.com/betweentwomidnights/gary4juce) | JUCE-based DAW plugin |
-| [Ableton Extension](https://github.com/betweentwomidnights/sa3-ableton-extension) | Ableton Live extension |
-| [Speech-operated Terminal Looper](https://github.com/sonicfieldlabs/oram) | Voice-controlled terminal looper |
-| [Sample Varations Plugin](https://github.com/maxgraf96/stable-audio-3) | Sample variation generation JUCE plugin |
-| [theDAW](https://github.com/gantasmo/StableDAW) | Browser-based DAW for Stable Audio 3 |
+| [Macbook Pro fast inference demo](https://x.com/dadabots/status/2057237391983640811) | Fast inference on Apple Silicon by [@dadabots](https://x.com/dadabots/) |
+| [Promptless Mood steering](https://guglielmocamporese.github.io/blog/audio-mood-steering/) | Steering Stable Audio 3 by attaching inference-time probes to the diffusion transformer by [@gucamporese](https://x.com/gucamporese) |
+| [DAW Plugin](https://github.com/betweentwomidnights/gary4juce) | JUCE-based DAW plugin by [@thepatch_kev](https://x.com/thepatch_kev)|
+| [Ableton Extension](https://github.com/betweentwomidnights/sa3-ableton-extension) | Ableton Live extension by [@thepatch_kev](https://x.com/thepatch_kev) |
+| [Speech-operated Terminal Looper](https://github.com/sonicfieldlabs/oram) | Voice-controlled terminal looper by [@sonic_field](https://x.com/sonic_field)|
+| [Sample Varations Plugin](https://github.com/maxgraf96/stable-audio-3) | Sample variation generation JUCE plugin by [@maxgraf__](https://x.com/maxgraf__) |
+| [theDAW](https://github.com/gantasmo/StableDAW) | Browser-based DAW for Stable Audio 3 by [@gantasmo](https://x.com/gantasmo) |
+
 
 
 ## Papers
