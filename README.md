@@ -54,7 +54,7 @@
 | [Ableton Extension](https://github.com/betweentwomidnights/sa3-ableton-extension) | Ableton Live extension by [@thepatch_kev](https://x.com/thepatch_kev) |
 | [Speech-operated Terminal Looper](https://github.com/sonicfieldlabs/oram) | Voice-controlled terminal looper by [@sonic_field](https://x.com/sonic_field)|
 | [Sample Varations Plugin](https://github.com/maxgraf96/stable-audio-3) | Sample variation generation JUCE plugin by [@maxgraf__](https://x.com/maxgraf__) |
-| [theDAW]([https://github.com/gantasmo/theDAW](https://github.com/gantasmo/theDAW)) | Browser-based DAW for Stable Audio 3 by [@gantasmo](https://x.com/gantasmo) |
+| [theDAW](https://github.com/gantasmo/theDAW) | Browser-based DAW for Stable Audio 3 by [@gantasmo](https://x.com/gantasmo) |
 | [LoopMaster](https://github.com/LevonFrench/LoopMasterSA) | A generative loop explorer by [@hotghettomusic](https://x.com/hotghettomusic) |
 | [SAO-Doh](https://github.com/mtsandra/stable-audio-tools-v2) | [FlowEdit](https://arxiv.org/abs/2412.08629) implementation to generate intermediate sonic states between a source sample and a target description by team [hack-a-lil](https://musichackspace.org/events/hackathon-boston-june-2026/teams/434) ([Aleksandra Teng Ma](https://github.com/mtsandra), [Nithya Shikarpur](https://x.com/NithyaIsMe), [Cameron McCoy](https://www.linkedin.com/in/cameron-mccoy-/))
 | [Stable Audio 3 inpainting UI](https://github.com/lyramakesmusic/sa3-inpainter-ui) | Browser UI for Stable Audio 3, includes LoRA training with auto-captioning by [@\_lyraaaa_](https://x.com/_lyraaaa_)|
