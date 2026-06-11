@@ -58,7 +58,8 @@
 | [LoopMaster](https://github.com/LevonFrench/LoopMasterSA) | A generative loop explorer by [@hotghettomusic](https://x.com/hotghettomusic) |
 | [SAO-Doh](https://github.com/mtsandra/stable-audio-tools-v2) | [FlowEdit](https://arxiv.org/abs/2412.08629) implementation to generate intermediate sonic states between a source sample and a target description by team [hack-a-lil](https://musichackspace.org/events/hackathon-boston-june-2026/teams/434) ([Aleksandra Teng Ma](https://github.com/mtsandra), [Nithya Shikarpur](https://x.com/NithyaIsMe), [Cameron McCoy](https://www.linkedin.com/in/cameron-mccoy-/))
 | [Stable Audio 3 inpainting UI](https://github.com/lyramakesmusic/sa3-inpainter-ui) | Browser UI for Stable Audio 3, includes LoRA training with auto-captioning by [@\_lyraaaa_](https://x.com/_lyraaaa_)|
-| [StableAudioKit](https://github.com/olilarkin/StableAudioKit) | Swift package and CLI for python-less MLX SA3 inference on Apple Platforms by [@olilarkin](https://github.com/olilarkin) |
+| [StableAudioKit](https://github.com/olilarkin/StableAudioKit) | Swift package and CLI for python-less MLX Stable Audio 3 inference on Apple Platforms by [@olilarkin](https://github.com/olilarkin) |
+| [Motif: Maqam generation plugin](https://github.com/thejadalmasri/motif_hack/) | A LoRA adapter of Stable Audio 3 + JUCE VST plugin for microtonal Arabic maqam music generation by [Jad Al Masri](https://www.instagram.com/jadalmasriofficial), [Thiago Santos](https://www.linkedin.com/in/thiagoosantos/), [Rithik Kundu](https://www.linkedin.com/in/rithik-kundu/), [Michael Tomasi](https://www.linkedin.com/in/mtomasi/), and [Chris Powers](https://www.linkedin.com/in/chris-powers-2bba2a160/)
 
 ## Papers
 | Year | Paper |
