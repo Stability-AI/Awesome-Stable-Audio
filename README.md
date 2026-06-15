@@ -60,7 +60,7 @@
 | [Stable Audio 3 inpainting UI](https://github.com/lyramakesmusic/sa3-inpainter-ui) | Browser UI for Stable Audio 3, includes LoRA training with auto-captioning by [@\_lyraaaa_](https://x.com/_lyraaaa_)|
 | [StableAudioKit](https://github.com/olilarkin/StableAudioKit) | Swift package and CLI for python-less MLX Stable Audio 3 inference on Apple Platforms by [@olilarkin](https://github.com/olilarkin) |
 | [Motif: Maqam generation plugin](https://github.com/thejadalmasri/motif_hack/) | A LoRA adapter of Stable Audio 3 + JUCE VST plugin for microtonal Arabic maqam music generation by [Jad Al Masri](https://www.instagram.com/jadalmasriofficial), [Thiago Santos](https://www.linkedin.com/in/thiagoosantos/), [Rithik Kundu](https://www.linkedin.com/in/rithik-kundu/), [Michael Tomasi](https://www.linkedin.com/in/mtomasi/), and [Chris Powers](https://www.linkedin.com/in/chris-powers-2bba2a160/)
-| [Framenta](https://github.com/MAz-Codes/Fragmenta) | Fully-featured, offline desktop app for Stable Audio 3, including LoRA training, audio annotation, and performance mode by [@MAz-Codes](https://github.com/MAz-Codes) | 
+| [Fragmenta](https://github.com/MAz-Codes/Fragmenta) | Fully-featured, offline desktop app for Stable Audio 3, including LoRA training, audio annotation, and performance mode by [@MAz-Codes](https://github.com/MAz-Codes) | 
 
 ## Papers
 | Year | Paper |
