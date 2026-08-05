@@ -62,6 +62,7 @@
 | [Motif: Maqam generation plugin](https://github.com/thejadalmasri/motif_hack/) | A LoRA adapter of Stable Audio 3 + JUCE VST plugin for microtonal Arabic maqam music generation by [Jad Al Masri](https://www.instagram.com/jadalmasriofficial), [Thiago Santos](https://www.linkedin.com/in/thiagoosantos/), [Rithik Kundu](https://www.linkedin.com/in/rithik-kundu/), [Michael Tomasi](https://www.linkedin.com/in/mtomasi/), and [Chris Powers](https://www.linkedin.com/in/chris-powers-2bba2a160/)
 | [Fragmenta](https://github.com/MAz-Codes/Fragmenta) | Fully-featured, offline desktop app for Stable Audio 3, including LoRA training, audio annotation, and performance mode by [@MAz-Codes](https://github.com/MAz-Codes) | 
 | [neural_tilde](https://github.com/jasper-zheng/neural_tilde) | Max/MSP package for running Stable Audio 3 locally on Apple Platforms, by [@jasper-zheng](https://github.com/jasper-zheng/) |
+| [LSDJ](https://github.com/protocol-works/lsdj) | Software for using Stable Audio 3 and Magenta RT-2 with Pioneer DDJ-FLX4, by [@brxs.](https://x.com/memetic_mystic )|
 
 ## Papers
 | Year | Paper |
