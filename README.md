@@ -63,6 +63,7 @@
 | [Fragmenta](https://github.com/MAz-Codes/Fragmenta) | Fully-featured, offline desktop app for Stable Audio 3, including LoRA training, audio annotation, and performance mode by [@MAz-Codes](https://github.com/MAz-Codes) | 
 | [neural_tilde](https://github.com/jasper-zheng/neural_tilde) | Max/MSP package for running Stable Audio 3 locally on Apple Platforms, by [@jasper-zheng](https://github.com/jasper-zheng/) |
 | [LSDJ](https://github.com/protocol-works/lsdj) | Software for using Stable Audio 3 and Magenta RT-2 with Pioneer DDJ-FLX4, by [@brxs.](https://x.com/memetic_mystic )|
+| [OBSIDIAN Neural](https://github.com/innermost47/ai-dj) | Live performance with Stable Audio 3, by [@innermost47](https://github.com/innermost47) |
 
 ## Papers
 | Year | Paper |
