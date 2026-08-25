@@ -64,6 +64,8 @@
 | [neural_tilde](https://github.com/jasper-zheng/neural_tilde) | Max/MSP package for running Stable Audio 3 locally on Apple Platforms, by [@jasper-zheng](https://github.com/jasper-zheng/) |
 | [LSDJ](https://github.com/protocol-works/lsdj) | Software for using Stable Audio 3 and Magenta RT-2 with Pioneer DDJ-FLX4, by [@brxs.](https://x.com/memetic_mystic )|
 | [OBSIDIAN Neural](https://github.com/innermost47/ai-dj) | Live performance with Stable Audio 3, by [@innermost47](https://github.com/innermost47) |
+| [StableGroove](https://github.com/navin-neu/stable-groove) | A real-time, hot-swapping, AI-powered drum machine instrument designed for live performance, by [@navin-neu](https://github.com/navin-neu) and [@VincyZed](https://github.com/VincyZed) |
+| [Unstable DAW](https://github.com/walkingwave/musictech-hackathon) | An agentic music studio that transforms a simple hum into an editable production, by [@walkingwave](https://github.com/walkingwave), [@gilbertotumangday1](https://github.com/gilbertotumangday1), and [@letaoli123](https://github.com/letaoli123)
 
 ## Papers
 | Year | Paper |
