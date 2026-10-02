@@ -50,7 +50,7 @@
 |----------|-------------|
 | [Macbook Pro fast inference demo](https://x.com/dadabots/status/2057237391983640811) | Fast inference on Apple Silicon by [@dadabots](https://x.com/dadabots/) |
 | [Promptless Mood steering](https://guglielmocamporese.github.io/blog/audio-mood-steering/) | Steering Stable Audio 3 by attaching inference-time probes to the diffusion transformer by [@gucamporese](https://x.com/gucamporese) |
-| [sa3.cpp](https://github.com/betweentwomidnights/sa3.cpp) | Native C++/ggml runtime for Stable Audio 3 inference and LoRA training with an embeddable C API by [@thepatch_kev](https://x.com/thepatch_kev); local web interfaces by [pillopaus-project](https://github.com/pillopaus-project/sa3.cpp) |
+| [sa3.cpp](https://github.com/betweentwomidnights/sa3.cpp) ([v0.1.0](https://github.com/betweentwomidnights/sa3.cpp/releases/tag/v0.1.0)) | Native C++/ggml inference for Stable Audio 3, Stable Audio Open, and Foundation models, with Stable Audio 3 LoRA training, an embeddable C API, and a local web studio. By [@thepatch_kev](https://x.com/thepatch_kev); web interfaces originated with [pillopaus-project](https://github.com/pillopaus-project/sa3.cpp) |
 | [DAW Plugin](https://github.com/betweentwomidnights/gary4juce) | JUCE-based DAW plugin by [@thepatch_kev](https://x.com/thepatch_kev)|
 | [Ableton Extension](https://github.com/betweentwomidnights/sa3-ableton-extension) | Ableton Live extension by [@thepatch_kev](https://x.com/thepatch_kev) |
 | [Speech-operated Terminal Looper](https://github.com/sonicfieldlabs/oram) | Voice-controlled terminal looper by [@sonic_field](https://x.com/sonic_field)|
