@@ -50,6 +50,7 @@
 |----------|-------------|
 | [Macbook Pro fast inference demo](https://x.com/dadabots/status/2057237391983640811) | Fast inference on Apple Silicon by [@dadabots](https://x.com/dadabots/) |
 | [Promptless Mood steering](https://guglielmocamporese.github.io/blog/audio-mood-steering/) | Steering Stable Audio 3 by attaching inference-time probes to the diffusion transformer by [@gucamporese](https://x.com/gucamporese) |
+| [sa3.cpp](https://github.com/betweentwomidnights/sa3.cpp) | Native C++/ggml runtime for Stable Audio 3 and Stable Audio Open/Foundation models, with SA3 LoRA training. Its embeddable C API powers fully embedded SA3 and Foundation-1 VST3 plugins; an experimental iOS app runs SA3 inference and training on-device. |
 | [DAW Plugin](https://github.com/betweentwomidnights/gary4juce) | JUCE-based DAW plugin by [@thepatch_kev](https://x.com/thepatch_kev)|
 | [Ableton Extension](https://github.com/betweentwomidnights/sa3-ableton-extension) | Ableton Live extension by [@thepatch_kev](https://x.com/thepatch_kev) |
 | [Speech-operated Terminal Looper](https://github.com/sonicfieldlabs/oram) | Voice-controlled terminal looper by [@sonic_field](https://x.com/sonic_field)|
