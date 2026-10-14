@@ -50,7 +50,7 @@
 |----------|-------------|
 | [Macbook Pro fast inference demo](https://x.com/dadabots/status/2057237391983640811) | Fast inference on Apple Silicon by [@dadabots](https://x.com/dadabots/) |
 | [Promptless Mood steering](https://guglielmocamporese.github.io/blog/audio-mood-steering/) | Steering Stable Audio 3 by attaching inference-time probes to the diffusion transformer by [@gucamporese](https://x.com/gucamporese) |
-| [sa3.cpp](https://github.com/betweentwomidnights/sa3.cpp) | Native C++/ggml runtime for Stable Audio 3 and Stable Audio Open/Foundation models, with SA3 LoRA training. Its embeddable C API powers fully embedded SA3 and Foundation-1 VST3 plugins; an experimental iOS app runs SA3 inference and training on-device. |
+| [sa3.cpp](https://github.com/betweentwomidnights/sa3.cpp) | Native C++/ggml runtime for Stable Audio 3 and Stable Audio Open/Foundation models, with SA3 LoRA training. Its embeddable C API powers fully embedded SA3 and Foundation-1 VST3 plugins; an experimental iOS app runs SA3 inference and training on-device by [@thepatch_kev](https://x.com/thepatch_kev)|
 | [DAW Plugin](https://github.com/betweentwomidnights/gary4juce) | JUCE-based DAW plugin by [@thepatch_kev](https://x.com/thepatch_kev)|
 | [Ableton Extension](https://github.com/betweentwomidnights/sa3-ableton-extension) | Ableton Live extension by [@thepatch_kev](https://x.com/thepatch_kev) |
 | [Speech-operated Terminal Looper](https://github.com/sonicfieldlabs/oram) | Voice-controlled terminal looper by [@sonic_field](https://x.com/sonic_field)|
@@ -67,7 +67,7 @@
 | [OBSIDIAN Neural](https://github.com/innermost47/ai-dj) | Live performance with Stable Audio 3, by [@innermost47](https://github.com/innermost47) |
 | [StableGroove](https://github.com/navin-neu/stable-groove) | A real-time, hot-swapping, AI-powered drum machine instrument designed for live performance, by [@navin-neu](https://github.com/navin-neu) and [@VincyZed](https://github.com/VincyZed) |
 | [Unstable DAW](https://github.com/walkingwave/musictech-hackathon) | An agentic music studio that transforms a simple hum into an editable production, by [@walkingwave](https://github.com/walkingwave), [@gilbertotumangday1](https://github.com/gilbertotumangday1), and [@letaoli123](https://github.com/letaoli123)
-
+| [Agentic Neural Audio Synthesis](https://github.com/moiseshorta/agentic-neural-audio-synthesis/tree/main) | A skill that lets an LLM agent learn how to produce sounds without hearing audio using SAME-S, by [@𝔥𝔢𝔵𝔬𝔯𝔠𝔦𝔰𝔪𝔬𝔰](https://x.com/hexorcismos) |
 ## Papers
 | Year | Paper |
 |----------|-------------|
