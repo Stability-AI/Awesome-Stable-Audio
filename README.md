@@ -68,6 +68,7 @@
 | [StableGroove](https://github.com/navin-neu/stable-groove) | A real-time, hot-swapping, AI-powered drum machine instrument designed for live performance, by [@navin-neu](https://github.com/navin-neu) and [@VincyZed](https://github.com/VincyZed) |
 | [Unstable DAW](https://github.com/walkingwave/musictech-hackathon) | An agentic music studio that transforms a simple hum into an editable production, by [@walkingwave](https://github.com/walkingwave), [@gilbertotumangday1](https://github.com/gilbertotumangday1), and [@letaoli123](https://github.com/letaoli123)
 | [Agentic Neural Audio Synthesis](https://github.com/moiseshorta/agentic-neural-audio-synthesis/tree/main) | A skill that lets an LLM agent learn how to produce sounds without hearing audio using SAME-S, by [@𝔥𝔢𝔵𝔬𝔯𝔠𝔦𝔰𝔪𝔬𝔰](https://x.com/hexorcismos) |
+| [Audio Studio MCP](https://github.com/kanaworksai-hue/audio-studio-mcp) | MCP server for local Stable Audio generations, by [@KanaWorks_AI](https://x.com/KanaWorks_AI) |
 ## Papers
 | Year | Paper |
 |----------|-------------|
